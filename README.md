@@ -41,8 +41,9 @@ La página mantiene una estética sobria y profesional, alineada visualmente con
 
 ## Autor
 
-#Wellington Alvarez
+# Wellington Alvarez
 
 GitHub: https://github.com/wellington3100
+
 Página personal: https://wellington3100.github.io
   
