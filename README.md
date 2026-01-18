@@ -1,6 +1,6 @@
 # Página personal – Wellington Alvarez
 
-## 📄 Descripción
+##  Descripción
 Página web personal minimalista diseñada para centralizar mis enlaces profesionales en un solo lugar.  
 El objetivo de este proyecto es contar con un **hub profesional privado**, coherente con mi CV y perfil de GitHub, para compartir únicamente en contextos como entrevistas o contacto directo.
 
@@ -8,14 +8,14 @@ La página mantiene una estética sobria y profesional, alineada visualmente con
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 - HTML5
 - CSS3
 - GitHub Pages
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 - Presentación profesional (nombre y rol)
 - Enlaces centralizados a:
   - GitHub
@@ -28,7 +28,7 @@ La página mantiene una estética sobria y profesional, alineada visualmente con
 
 ---
 
-## 🚀 Pasos para clonar y ejecutar
+##  Pasos para clonar y ejecutar
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/wellington3100/wellington3100.github.io.git
@@ -39,9 +39,10 @@ La página mantiene una estética sobria y profesional, alineada visualmente con
 
 ---
 
-# Autor
+## Autor
 
-Wellington Alvarez
+#Wellington Alvarez
+
 GitHub: https://github.com/wellington3100
 Página personal: https://wellington3100.github.io
   
